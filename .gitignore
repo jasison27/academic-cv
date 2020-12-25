@@ -3,4 +3,7 @@
 *.out
 *.synctex.gz
 *.swp
-
+*.xdv
+*.fls
+*.fdb_latexmk
+Shan-CV-*
